@@ -1,0 +1,4 @@
+ChanceTileWillSpawnAlive:float:0.4937501
+NumberOfIterations:int:6
+StarvationLowerLimit:int:4
+BirthCount:int:6
